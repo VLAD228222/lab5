@@ -26,8 +26,7 @@ class Program
 
         for (int i = 0; i < N; i++)
         {
-            Console.WriteLine("Дейко Влад"); // Заміни на своє прізвище
-        }
+            Console.WriteLine("Дейко Влад");
 
         Console.WriteLine("Натисніть будь-яку клавішу для завершення...");
         Console.ReadKey();
